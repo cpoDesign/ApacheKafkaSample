@@ -21,7 +21,12 @@ Creating topic
 
 https://codenotfound.com/apache-kafka-download-installation.html
 
-Version of Kafka & ZooKeeper 
+OpenJDK
+
+https://adoptopenjdk.net/releases.html?variant=openjdk12&jvmVariant=hotspot#x64_win
+
+
+Version of Kafka & Zookeeper 
 https://www.apache.org/dyn/closer.cgi?path=/kafka/2.3.0/kafka_2.12-2.3.0.tgz
 
 
