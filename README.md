@@ -30,3 +30,9 @@ Version of Kafka & Zookeeper
 https://www.apache.org/dyn/closer.cgi?path=/kafka/2.3.0/kafka_2.12-2.3.0.tgz
 
 
+# SSL guide configuration
+
+- https://docs.confluent.io/current/kafka/authentication_ssl.html
+- https://docs.microsoft.com/en-us/azure/hdinsight/kafka/apache-kafka-ssl-encryption-authentication
+
+
